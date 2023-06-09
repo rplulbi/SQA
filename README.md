@@ -1,7 +1,5 @@
 # SQA (Software Quality Assurance)
-![image](https://github.com/rplulbi/SQA/assets/15622730/79493868-be0d-4335-bcb7-d4690b280340)
 ![image](https://github.com/rplulbi/SQA/assets/15622730/14938008-e4cc-420e-9fc9-e1377dcd5966)
-
 
 [Download Buku Disini](https://www.amazon.com/Software-Quality-Assurance-Integrating-Security/dp/1498735533)
 
