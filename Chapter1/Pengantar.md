@@ -1,5 +1,7 @@
 # Pendahuluan
 ## Apa itu Software Quality Assurance (QA)
+![image](https://github.com/rplulbi/SQA/assets/15622730/cb1ad924-9ecb-443a-a6b7-7b493517c137)
+
 Software quality assurance adalah kegiatan penting dalam sebuah perangkat lunak yang diterapkan pada setiap langkah dalam proses perangkat lunak. SQA mencakup prosedur untuk penerapan metode dan alat yang efektif, pengawasan kegiatan pengendalian kualitas seperti tinjauan teknis dan pengujian perangkat lunak, prosedur untuk manajemen perubahan, prosedur untuk memastikan kepatuhan terhadap standar, dan mekanisme pengukuran dan pelaporan. Software quality assurance berkaitan dengan memastikan bahwa perangkat lunak memiliki jumlah cacat yang kecil dan mencapai standar yang diperlukan untuk pemeliharaan, keandalan, portabilitas, dan sebagainya.
 
 Bisa disebut juga sebagai proses yang digunakan untuk memastikan bahwa suatu produk atau layanan memenuhi standar kualitas tertentu. Hal ini sering melibatkan pengujian produk atau layanan secara menyeluruh untuk memastikan bahwa produk atau layanan tersebut berfungsi sebagaimana mestinya dan memenuhi spesifikasi dan persyaratan yang diharapkan .
@@ -27,7 +29,6 @@ Salah satu misnomers terbesar dalam proyek perangkat lunak adalah bahwa kualitas
 
 ![image](https://github.com/rplulbi/SQA/assets/15622730/ca3c78cf-484d-4a23-bbcc-dae127c711cb)
 
-![image](https://github.com/rplulbi/SQA/assets/15622730/cb1ad924-9ecb-443a-a6b7-7b493517c137)
 ## Elemen-elemen Software Quality Assurance
 1. Standards (Standar)
 2. Reviews and audits (Ulasan dan audit)
