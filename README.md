@@ -10,12 +10,12 @@ by Abu Sayed Mahfuz (Author)
 - Jumat Pukul 19:00 - 20:00
 - Sabtu Pukul 09:00 - 11:00
 
-## Absensi Kehadiran
+## Absensi Kehadiran (Hadir ✔️ / Tidak Hadir ❌) 
 | PART |  Hari/Tgl        |NPM        | Nama                   | Kehadiran  |
 | -----| -----------------|-----------|----------------------- | ---------- |
-| 1.   | Jumat, 09/06/23  | 714222072 | Bernadus Billy Riantono| Hadir      |
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | Hadir      |
-|      |                  | 000000000 | Yadi Mulyadi        	 | Hadir      |
+| 1.   | Jumat, 09/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |
+|      |                  | 000000000 | Yadi Mulyadi        	 | ✔️ |
 
 
 # Deskripsi Perkuliahan dan Penilaian
