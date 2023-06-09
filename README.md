@@ -6,6 +6,18 @@
 Software Quality Assurance: Integrating Testing, Security, and Audit (Internal Audit and IT Audit) 1st Edition
 by Abu Sayed Mahfuz (Author)
 
+## Jadwal Kuliah
+- Jumat Pukul 19:00 - 20:00
+- Sabtu Pukul 09:00 - 11:00
+
+## Absensi Kehadiran
+| PART |  Hari/Tgl        |NPM        | Nama                   | Kehadiran  |
+| -----| -----------------|-----------|----------------------- | ---------- |
+| 1.   | Jumat, 09/06/23  | 714222072 | Bernadus Billy Riantono| Hadir      |
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | Hadir      |
+|      |                  | 000000000 | Yadi Mulyadi        	 | Hadir      |
+
+
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
 | A = 4 | AB = 3,5 | B = 3 | BC = 2,5 |C = 2 |D = 1 | E = 0|
