@@ -13,9 +13,12 @@ by Abu Sayed Mahfuz (Author)
 ## Absensi Kehadiran (Hadir ✔️ / Tidak Hadir ❌) 
 | PART |  Hari/Tgl        |NPM        | Nama                   | Kehadiran  |Materi  |
 | -----| -----------------|-----------|----------------------- | ---------- |---------- |
-| 1.   | Jumat, 09/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Deskripsi & CPL matkul|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |Software Quality Assurance|
-|      |                  | 000000000 | Yadi Mulyadi        	 | ✔️ |testing, Security dan Audit|
+| 1.   | Jumat, 09/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Deskripsi & CPL matkul-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-Software Quality Assurance-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-testing, Security dan Audit|
+| 2.   | Sabtu, 10/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |fault and failures-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-error tit-bits-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-anual test preparation|
 
 
 # Deskripsi Perkuliahan dan Penilaian
