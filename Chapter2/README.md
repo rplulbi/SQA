@@ -1,4 +1,8 @@
 # Pendahuluan
+![image](https://github.com/rplulbi/SQA/assets/15622730/17eb926b-3b0b-4236-b0cc-f1591da9c333)
+![image](https://github.com/rplulbi/SQA/assets/15622730/06ccb5f7-32db-42da-a870-e406c684f6f5)
+![image](https://github.com/rplulbi/SQA/assets/15622730/d40f75d3-d0fe-43be-917a-2cfe03afbf0e)
+
 ## Apa itu Software Quality Assurance (QA)
 ![image](https://github.com/rplulbi/SQA/assets/15622730/cb1ad924-9ecb-443a-a6b7-7b493517c137)
 
