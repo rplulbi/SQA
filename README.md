@@ -1,10 +1,22 @@
 # SQA (Software Quality Assurance)
-![image](https://github.com/rplulbi/SQA/assets/15622730/79493868-be0d-4335-bcb7-d4690b280340)
+![image](https://github.com/rplulbi/SQA/assets/15622730/14938008-e4cc-420e-9fc9-e1377dcd5966)
 
 [Download Buku Disini](https://www.amazon.com/Software-Quality-Assurance-Integrating-Security/dp/1498735533)
 
 Software Quality Assurance: Integrating Testing, Security, and Audit (Internal Audit and IT Audit) 1st Edition
 by Abu Sayed Mahfuz (Author)
+
+## Jadwal Kuliah
+- Jumat Pukul 19:00 - 20:00
+- Sabtu Pukul 09:00 - 11:00
+
+## Absensi Kehadiran (Hadir ✔️ / Tidak Hadir ❌) 
+| PART |  Hari/Tgl        |NPM        | Nama                   | Kehadiran  |Materi  |
+| -----| -----------------|-----------|----------------------- | ---------- |---------- |
+| 1.   | Jumat, 09/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Deskripsi & CPL matkul|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |Software Quality Assurance|
+|      |                  | 000000000 | Yadi Mulyadi        	 | ✔️ |testing, Security dan Audit|
+
 
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
