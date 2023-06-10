@@ -18,7 +18,7 @@ by Abu Sayed Mahfuz (Author)
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-testing, Security dan Audit|
 | 2.   | Sabtu, 10/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |fault and failures-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-error tit-bits-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-anual test preparation|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-manual test preparation|
 
 
 # Deskripsi Perkuliahan dan Penilaian
