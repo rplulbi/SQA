@@ -43,7 +43,6 @@ Ketikan perintah berikut pada terminal
 `` py
 pip install selenium
 ```
-![image](https://github.com/rplulbi/SQA/assets/15622730/7eb29346-c5a1-4029-871a-6bb32e18f78c)
 
 
 
