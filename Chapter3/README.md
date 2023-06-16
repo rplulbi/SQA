@@ -25,3 +25,40 @@ Ada beberapa aplikasi yang populer digunakan untuk pengujian kualitas sistem. Be
 ![image](https://github.com/rplulbi/SQA/assets/15622730/7a626bb3-fa89-427a-97ed-f6dda8fa0b1b)
 
 Perlu diingat bahwa pilihan alat pengujian kualitas sistem dapat bervariasi tergantung pada kebutuhan dan preferensi spesifik proyek atau organisasi.
+
+# Selenium Python
+## Instal Python
+Silahkan download terlebih dahulu [PYTHON WINDOWS](https://www.python.org/)
+Lakukan prosess instalasinya sampai selesai
+lakukan pengecekan instalasi python 
+![image](https://github.com/rplulbi/SQA/assets/15622730/7ec2bf99-31d4-4170-bd06-7be2b0e01b91)
+
+## Instal Kode Editor
+Download [VSCODE](https://code.visualstudio.com/) 
+tambahkan ekstensi python nya
+![image](https://github.com/rplulbi/SQA/assets/15622730/8a8a1a3d-fab9-492c-8684-387e0286bb7a)
+
+## Instal Selenium
+**Ketikan perintah berikut pada terminal
+**``` py
+pip install selenium
+```
+![image](https://github.com/rplulbi/SQA/assets/15622730/7eb29346-c5a1-4029-871a-6bb32e18f78c)
+
+**Cek instalasi selenium
+**``` py
+pip list
+```
+![image](https://github.com/rplulbi/SQA/assets/15622730/7d4e5bf2-782c-4447-b05d-06a9f3ed43d4)
+
+Instal Chrome Driver
+[Chrome Driver](https://chromedriver.chromium.org/downloads)
+pilih sesuai chrome nya
+![image](https://github.com/rplulbi/SQA/assets/15622730/6f9848f7-29c6-4143-8128-5eec859f80de)
+Cek Instalasi
+![image](https://github.com/rplulbi/SQA/assets/15622730/1f03af10-cd18-412e-bb3b-e96cabfa00ec)
+Masukan Path Chrome Drivernya pada Environment WINDOWS
+
+
+
+
