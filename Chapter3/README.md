@@ -7,6 +7,7 @@ Ada beberapa aplikasi yang populer digunakan untuk pengujian kualitas sistem. Be
 5. [Appium](https://appium.io/docs/en/2.0/): Appium adalah alat pengujian otomatis yang digunakan untuk pengujian aplikasi seluler (Android dan iOS). Ini memungkinkan pengujian fungsional pada aplikasi seluler menggunakan skrip pengujian yang ditulis dalam bahasa pemrograman seperti Java, Python, atau Ruby.
 ![image](https://github.com/rplulbi/SQA/assets/15622730/2576eeee-febe-427b-a3f7-a397bdc08da8)
 6. [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview): LoadRunner adalah alat pengujian kinerja yang digunakan untuk menguji kinerja, ketahanan, dan skalabilitas sistem. Ini dapat mensimulasikan lalu lintas pengguna yang tinggi untuk melihat bagaimana aplikasi atau sistem berkinerja di bawah tekanan.
+![image](https://github.com/rplulbi/SQA/assets/15622730/2a89a6e2-be0b-4c93-b051-3744c21deea6)
 7. [Postman](https://www.postman.com/): Postman adalah alat pengujian API yang digunakan untuk menguji dan mengelola API. Ini memungkinkan pengujian fungsional dan validasi API dengan mengirim permintaan HTTP dan menganalisis tanggapan yang diterima.
 ![image](https://github.com/rplulbi/SQA/assets/15622730/9b4e7152-58c3-48a2-93f5-78455eaeb75d)
 8. [JMeter](https://jmeter.apache.org/): Apache JMeter adalah alat pengujian kinerja yang digunakan untuk menguji kinerja aplikasi web, layanan web, dan protokol lainnya. Ini dapat mengukur kinerja sistem dengan memuat tes beban yang besar dan menganalisis responsnya.
