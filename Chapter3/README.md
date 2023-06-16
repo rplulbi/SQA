@@ -39,11 +39,25 @@ tambahkan ekstensi python nya
 ![image](https://github.com/rplulbi/SQA/assets/15622730/8a8a1a3d-fab9-492c-8684-387e0286bb7a)
 
 ## Instal Selenium
-Ketikan perintah berikut pada terminal
-`` py
+**Ketikan perintah berikut pada terminal
+**``` py
 pip install selenium
 ```
+![image](https://github.com/rplulbi/SQA/assets/15622730/7eb29346-c5a1-4029-871a-6bb32e18f78c)
 
+**Cek instalasi selenium
+**``` py
+pip list
+```
+![image](https://github.com/rplulbi/SQA/assets/15622730/7d4e5bf2-782c-4447-b05d-06a9f3ed43d4)
+
+Instal Chrome Driver
+[Chrome Driver](https://chromedriver.chromium.org/downloads)
+pilih sesuai chrome nya
+![image](https://github.com/rplulbi/SQA/assets/15622730/6f9848f7-29c6-4143-8128-5eec859f80de)
+Cek Instalasi
+![image](https://github.com/rplulbi/SQA/assets/15622730/1f03af10-cd18-412e-bb3b-e96cabfa00ec)
+Masukan Path Chrome Drivernya pada Environment WINDOWS
 
 
 
