@@ -40,13 +40,15 @@ tambahkan ekstensi python nya
 
 ## Instal Selenium
 **Ketikan perintah berikut pada terminal
-**``` py
+**
+``` py
 pip install selenium
 ```
 ![image](https://github.com/rplulbi/SQA/assets/15622730/7eb29346-c5a1-4029-871a-6bb32e18f78c)
 
 **Cek instalasi selenium
-**``` py
+**
+``` py
 pip list
 ```
 ![image](https://github.com/rplulbi/SQA/assets/15622730/7d4e5bf2-782c-4447-b05d-06a9f3ed43d4)
