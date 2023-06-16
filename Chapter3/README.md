@@ -68,6 +68,7 @@ Hasilnya begini
 Tambahkan Kodingan berikut pada file yang akan di tambahkan
 disini yang akan digunakan adalah findelemen.py
 
+![image](https://github.com/rplulbi/SQA/assets/15622730/6bf9cac0-d930-4944-b71e-fa8cf93f5773)
 
 
 
