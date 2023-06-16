@@ -59,6 +59,11 @@ Cek Instalasi
 ![image](https://github.com/rplulbi/SQA/assets/15622730/1f03af10-cd18-412e-bb3b-e96cabfa00ec)
 Masukan Path Chrome Drivernya pada Environment WINDOWS
 
+Hasilnya begini
+![image](https://github.com/rplulbi/SQA/assets/15622730/d24fb396-324f-464e-b9ea-7fe4f36fc085)
+![image](https://github.com/rplulbi/SQA/assets/15622730/e9f4e523-6a18-4f7a-a99e-30de7d8e6669)
+
+
 
 
 
