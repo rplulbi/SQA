@@ -4,6 +4,7 @@
 3. Buat File Proses Load URL  **Bobot 10**
 4. Buat File Proses Input Text  **Bobot 30**
 5. Buat File Baru degan Frontend yang berbeda dengan yang dikerjakan sebelumnya (lakukan pengujian)  **Bobot 50**
+6. Lakukan full request pada Chapter 5  (jangan sampai terjadi conflict commit) 
 
 Akan dilakukan pengetesan (soal RANDOM)
 1. Membuka link url
