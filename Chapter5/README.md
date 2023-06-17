@@ -3,8 +3,9 @@
 2. Buat File Baru menggunakan Python **Bobot 10**
 3. Buat File Proses Load URL  **Bobot 10**
 4. Buat File Proses Input Text  **Bobot 30**
-5. Buat File Baru degan Frontend yang berbeda dengan yang dikerjakan sebelumnya (lakukan pengujian)  **Bobot 50**
-6. Lakukan full request pada **Chapter 5/Tugas** (jangan sampai terjadi conflict commit) 
+5. Buat File Baru degan Frontend yang berbeda dengan yang dikerjakan sebelumnya (lakukan pengujian)  **Bobot 30**
+6. Buat file README.md untuk mendeskripsikan lankahnya untuk masing-masing perintah kasus pada file yang dikerjakan **Bobot 20**
+7. Lakukan full request pada **Chapter 5/Tugas** (jangan sampai terjadi conflict commit) 
 
 Akan dilakukan pengetesan (soal RANDOM)
 1. Membuka link url
