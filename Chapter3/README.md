@@ -1,4 +1,8 @@
 # PENGUJIAN SISTEM
+![WhatsApp Image 2023-06-16 at 19 44 07](https://github.com/rplulbi/SQA/assets/15622730/fa9d0c3b-cbc3-48ab-81d1-b29cb1b6b328)
+![WhatsApp Image 2023-06-16 at 19 53 09](https://github.com/rplulbi/SQA/assets/15622730/cb65425d-eca1-48bf-90da-44177a4246c1)
+![WhatsApp Image 2023-06-16 at 20 16 53](https://github.com/rplulbi/SQA/assets/15622730/4385c756-c760-40cb-a1ba-ce4aa1f5c277)
+
 Ada beberapa aplikasi yang populer digunakan untuk pengujian kualitas sistem. Berikut adalah beberapa contoh aplikasi yang umum digunakan dalam praktik pengujian perangkat lunak:
 1. [Selenium](https://www.selenium.dev/): Selenium adalah alat pengujian otomatis yang digunakan untuk mengotomatisasi pengujian pada aplikasi web. Ini memungkinkan pengujian fungsional dan regresi melalui perekaman dan pemutaran aksi pengguna pada browser. 
 ![image](https://github.com/rplulbi/SQA/assets/15622730/5ef058dc-9dc2-41e9-a841-848803dc7ccb)

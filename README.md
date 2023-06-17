@@ -19,6 +19,9 @@ by Abu Sayed Mahfuz (Author)
 | 2.   | Sabtu, 10/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Fault and failures-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-error tit-bits-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-manual test preparation|
+| 3.   | Jumat, 16/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
 
 
 # Deskripsi Perkuliahan dan Penilaian
