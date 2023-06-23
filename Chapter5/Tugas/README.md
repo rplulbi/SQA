@@ -1,6 +1,4 @@
-# Upload Tugasnya disini
-
-## Tugas Pengujian Standar Selenium,
+# Tugas Pengujian Standar Selenium,
 1. Buat Folder NPM_Nama
 2. Buat File Baru menggunakan Python **Bobot 10**
 3. Buat File Proses Load URL  **Bobot 10**
