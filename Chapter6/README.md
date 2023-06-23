@@ -1,5 +1,5 @@
 # Software Tester
-https://www.mindmeister.com/map/2674954593?t=84J31JHAGo
+[MineMap Software Tester](https://www.mindmeister.com/map/2674954593?t=84J31JHAGo)
 
 
 
