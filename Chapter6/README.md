@@ -1,3 +1,8 @@
+# Software Tester
+https://www.mindmeister.com/map/2674954593?t=84J31JHAGo
+
+
+
 # Pengujian API menggunakan POSTMAN
 
 [Postman](https://www.postman.com/): Postman adalah alat pengujian API yang digunakan untuk menguji dan mengelola API. Ini memungkinkan pengujian fungsional dan validasi API dengan mengirim permintaan HTTP dan menganalisis tanggapan yang diterima.
