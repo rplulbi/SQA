@@ -2,7 +2,7 @@
 
 ### Langkah - Langkah
 1. Install Python3
-2. Jalankan pip3 install selenium
+2. Jalankan pip3 install selenium / pip3 install -r requirements.txt
 3. Install Chrome Webdriver dari : https://chromedriver.chromium.org/downloads sesuaikan dengan OS dan Arsitektur CPU yang digunakan
 4. Jalankan python3 testlogin.py
 
