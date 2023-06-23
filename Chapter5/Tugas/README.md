@@ -13,3 +13,8 @@ Akan dilakukan pengetesan (soal RANDOM)
 3. Membuka link Url + Input + tambah target link
 4. Time Sleep
 5. Buat Frontend + uji
+
+# Pengujian API menggunakan POSTMAN
+
+[Postman](https://www.postman.com/): Postman adalah alat pengujian API yang digunakan untuk menguji dan mengelola API. Ini memungkinkan pengujian fungsional dan validasi API dengan mengirim permintaan HTTP dan menganalisis tanggapan yang diterima.
+![image](https://github.com/rplulbi/SQA/assets/15622730/9b4e7152-58c3-48a2-93f5-78455eaeb75d)
