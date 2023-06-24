@@ -4,6 +4,10 @@
 [Postman](https://www.postman.com/): Postman adalah alat pengujian API yang digunakan untuk menguji dan mengelola API. Ini memungkinkan pengujian fungsional dan validasi API dengan mengirim permintaan HTTP dan menganalisis tanggapan yang diterima.
 ![image](https://github.com/rplulbi/SQA/assets/15622730/9b4e7152-58c3-48a2-93f5-78455eaeb75d)
 
+# Daftar Hadir
+![image](https://github.com/rplulbi/SQA/assets/15622730/3a678411-fd7c-4ceb-aa0b-bb054128ac5c)
+![image](https://github.com/rplulbi/SQA/assets/15622730/0401b553-c219-421b-93b7-0adcef83089b)
+
 
 # Tugas Pengujian Standar Selenium,
 1. Buat Folder NPM_Nama
