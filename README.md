@@ -22,6 +22,19 @@ by Abu Sayed Mahfuz (Author)
 | 3.   | Jumat, 16/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
+| 4.   | Sabtu, 17/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
+| 7.   | Jumat, 23/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
+| 6.   | Sabtu, 24/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | IZIN |- test case, time sleep-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
+| 7.   | Sabtu, 01/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
+
 
 
 # Deskripsi Perkuliahan dan Penilaian
