@@ -22,18 +22,18 @@ by Abu Sayed Mahfuz (Author)
 | 3.   | Jumat, 16/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
 |      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
 |      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
-| 4.   | Sabtu, 17/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
-| 7.   | Jumat, 23/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
-| 6.   | Sabtu, 24/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | IZIN |- test case, time sleep-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
-| 7.   | Sabtu, 01/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Selenium driver-|
-|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |- test case, time sleep-|
-|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-input process|
+| 4.   | Sabtu, 17/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Espresso Testing-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-Mobile apps-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Android Studio|
+| 7.   | Jumat, 23/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Posman Testing-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-API url test-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Process|
+| 6.   | Sabtu, 24/06/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Software Testing Resources-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | IZIN |-Certification test-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-Jira Software|
+| 7.   | Sabtu, 01/07/23  | 714222072 | Bernadus Billy Riantono| ✔️ |Test Plant-|
+|      |                  | 714222073 | Ardini Yuanita Lubis	 | ✔️ |-manual trace project testing-|
+|      |                  | 714222074 | Yadi Mulyadi        	 | ✔️ |-report testing|
 
 
 
